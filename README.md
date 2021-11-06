@@ -3,7 +3,7 @@ High school student / learning developer
 ## Contact Me
 [![Outlook](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:aieternal@outlook.com) 
 [![Protonmail](https://img.shields.io/badge/-ProtonMail-yellowgreen?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Kawarrui@protonmail.com)
-## Programing Languages I use
+## Programming Languages I use
 ![cplusplus](https://img.shields.io/badge/-c%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c](https://img.shields.io/badge/-c-blueviolet?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/-python-orange?style=for-the-badge&logo=python&logoColor=white)
