@@ -1,8 +1,9 @@
 # KiraPGR's Intro
 High school student / learning developer
 ## Contact Me
-[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:aieternal@outlook.com) 
-[![Protonmail](https://img.shields.io/badge/-ProtonMail-yellowgreen?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Kawarrui@protonmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-yellowgreen?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:aieternal@outlook.com) 
+[![Protonmail](https://img.shields.io/badge/-ProtonMail-inactive?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Kawarrui@protonmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/pgr47)
 ## Programming Languages I use
 ![cplusplus](https://img.shields.io/badge/-c%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c](https://img.shields.io/badge/-c-blueviolet?style=for-the-badge&logo=c&logoColor=white)
