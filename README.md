@@ -1,5 +1,5 @@
 # KiraPGR's Intro
-High school student / learning developer
+High school student / learning penetration tester
 ## Contact Me
 [![Outlook](https://img.shields.io/badge/-Outlook-yellowgreen?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:aieternal@outlook.com) 
 [![Protonmail](https://img.shields.io/badge/-ProtonMail-inactive?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Kawarrui@protonmail.com)
