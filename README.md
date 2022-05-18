@@ -16,10 +16,8 @@ High school student / learning penetration tester
 ![VS](https://img.shields.io/badge/-Visual%20Studio-477e77?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-%23796C8B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kira-Pgr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Pgr)](https://github.com/anuraghazra/github-readme-stats)
-## Popular Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kira-Pgr&repo=Github-CVE-Listener)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kira-Pgr&repo=Kira-Pgr.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kira-Pgr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Pgr&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Kira-Pgr/count.svg)
 
