@@ -17,7 +17,8 @@ High school student / learning penetration tester
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-%23796C8B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kira-Pgr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
-
+## Visit Count
+![Kira-Pgr](https://count.getloli.com/get/@Kira-Pgr?theme=asoul)
 
 
 
