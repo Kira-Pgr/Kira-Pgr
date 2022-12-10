@@ -1,13 +1,13 @@
 # KiraPGR's Intro
-High school student / learning security researcher
+High school student / learning security researcher & developer
 ## Contact Me
 [![Outlook](https://img.shields.io/badge/-Outlook-yellowgreen?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:aieternal@outlook.com) 
-[![Protonmail](https://img.shields.io/badge/-ProtonMail-inactive?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Kawarrui@protonmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/pgr47)
 ## Programming Languages I use
 ![cplusplus](https://img.shields.io/badge/-c%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c](https://img.shields.io/badge/-c-blueviolet?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/-python-orange?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-inactive?style=for-the-badge&logo=iTerm2&logoColor=white)
 ## Operating System
 ![Windows](https://img.shields.io/badge/-windows-red?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=linux&logoColor=white)
