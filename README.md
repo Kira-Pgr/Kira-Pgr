@@ -1,5 +1,5 @@
 # KiraPGR's Intro
-High school student / learning security researcher & developer
+Student / learning security researcher & developer
 ## Contact Me
 [![Outlook](https://img.shields.io/badge/-Email-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:aieternal@outlook.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/pgr47)
