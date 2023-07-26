@@ -18,8 +18,6 @@ Student / learning security researcher & developer
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kira-Pgr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kira-Pgr&theme=onedark&title=MultiLanguage,Commits,Issues,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-## WakaTime
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=pgr47&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## Visit Count
 ![Kira-Pgr](https://count.getloli.com/get/@Kira-Pgr?theme=asoul)
 
