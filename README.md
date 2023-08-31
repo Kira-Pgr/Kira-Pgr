@@ -2,7 +2,6 @@
 Student / learning developer
 ## Contact Me
 [![Outlook](https://img.shields.io/badge/-Email-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:aieternal@outlook.com) 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/pgr47)
 ## Programming Languages I use
 ![cplusplus](https://img.shields.io/badge/-c%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c](https://img.shields.io/badge/-c-blueviolet?style=for-the-badge&logo=c&logoColor=white)
