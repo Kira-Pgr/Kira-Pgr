@@ -3,10 +3,7 @@ Student / learning developer
 ## Contact Me
 [![Outlook](https://img.shields.io/badge/-Email-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:aieternal@outlook.com) 
 ## Programming Languages I use
-![cplusplus](https://img.shields.io/badge/-c%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
-![c](https://img.shields.io/badge/-c-blueviolet?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/-python-orange?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-inactive?style=for-the-badge&logo=iTerm2&logoColor=white)
 ## Operating System
 ![Windows](https://img.shields.io/badge/-windows-red?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=linux&logoColor=white)
