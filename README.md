@@ -12,7 +12,7 @@ Student / learning developer
 ![VS](https://img.shields.io/badge/-Visual%20Studio-477e77?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-%23796C8B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kira-Pgr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats-euvs.vercel.app/api?username=Kira-Pgr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kira-Pgr&theme=onedark&title=MultiLanguage,Commits,Issues,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
