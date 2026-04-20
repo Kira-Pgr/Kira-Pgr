@@ -11,7 +11,7 @@
 <br>
 
 ```
-                             I build the bridge between human intent and agent execution.
+                               I build the bridge between human intent and agent execution.
 ```
 
 </div>
