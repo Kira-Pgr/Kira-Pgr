@@ -73,13 +73,6 @@ I build the bridge between human intent and agent execution.
 
 <br>
 
-<!-- ── connect ──────────────────────────────────────────── -->
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/aieternal@outlook.com-0d1117?style=flat-square&logo=maildotru&logoColor=8b949e)](mailto:aieternal@outlook.com)
-
-</div>
 
 <br>
 
